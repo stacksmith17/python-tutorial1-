@@ -6,4 +6,5 @@ elif money == 5000:
     print ("buy the nike ")
 else :
     print ("buy the sambas yaar ")
+    # we can use the multiple elif statement 
     

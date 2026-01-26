@@ -19,6 +19,6 @@ for i in range (n, (n*10)+1, n ):
 # break 
 for i in range(1,21):
     if i==15:
-        break
+        break # we can also use continue in place break to continue 
     else:
         print(i)
