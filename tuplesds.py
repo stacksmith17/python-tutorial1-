@@ -55,3 +55,12 @@ n = list (m) # this will convert the tuples to list
 n.append (7)
 m = tuple (n)
 print (m)
+# we can't add the element to the tuples so we have to convert it to the list then we have to add element in it 
+
+# tuples unpacking 
+a,b,c,d,e = l
+print (a)
+print (b)
+print (c)
+print (d)
+print (e)
