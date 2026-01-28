@@ -21,3 +21,10 @@ print (A<=B)
 
 # disjoint 
 A.isdisjoint(B)
+
+
+
+# methods in the sets 
+lst = [1, 2, 3]
+
+# adding the elements in the 

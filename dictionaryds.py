@@ -29,4 +29,4 @@ for i in d :
     print (d[i])
 
 
-help(dict)
+
